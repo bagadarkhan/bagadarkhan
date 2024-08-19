@@ -16,3 +16,8 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcı_adınız&layout=compact)
+
+
+
+
