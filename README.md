@@ -15,7 +15,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact&token=GITHUB_API_TOKEN)
+
 
 
 
