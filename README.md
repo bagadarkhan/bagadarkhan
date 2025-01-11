@@ -14,9 +14,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical&count_private=true
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact&count_private=true&theme=radical)
 
 
 
