@@ -16,9 +16,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagadarkhan&" alt="bagadarkhan" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagadarkhan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact&theme=radical)
 
 https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical&count_private=true
 
