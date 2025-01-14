@@ -12,8 +12,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagadarkhan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&layout=compact&theme=radical&count_private=true)
-
 
 
 
