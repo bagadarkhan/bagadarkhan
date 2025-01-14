@@ -12,7 +12,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagadarkhan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadarkhan&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bagadarkhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
