@@ -1,28 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Computer Engineering Study from Turkey</h3>
-<h3 align="center">Bilgisayar Mühendisliği
-öğrencisiyim ve veri bilimi ile
-makine öğrenmesi alanlarında
-çalışmalar yapıyorum.
-Python ve SQL üzerinde
-deneyim sahibiyim. Pandas,
-NumPy ve Matplotlib
-kütüphaneleriyle veri analizi ve
-görselleştirme yapabiliyorum.
-Scikit-learn kullanarak temel
-makine öğrenmesi modelleri
-geliştirdim (ör. Linear
-Regression ile fiyat tahmini).
-Veri temizleme, ön işleme,
-küçük ölçekli ETL süreçleri ve
-basit tahminleme projelerinde
-deneyim kazandım.
-Amacım, veri odaklı karar
-süreçlerine katkı sağlayacak
-projeler geliştirmek ve makine
-öğrenmesi alanında kendimi
-ilerletmek.</h3>
-
+<h3 align="center">I'm a Computer Engineering student and I work in the fields of data science and machine learning.
+I have experience with Python and SQL. I can perform data analysis and visualization using Pandas, NumPy, and Matplotlib.
+I developed basic machine learning models using Scikit-learn (e.g., price prediction using Linear Regression).
+I gained experience in data cleaning, preprocessing, small-scale ETL processes, and simple forecasting projects.
+My goal is to develop projects that contribute to data-driven decision-making processes and to further my knowledge in the field of machine learning.</h3>
 
 <div align="center">
 
